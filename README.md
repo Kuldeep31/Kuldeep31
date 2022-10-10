@@ -53,5 +53,6 @@
 #### Editor / IDE I ♥
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" title="atom" width="40" height="40"/> </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep31)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kuldeep31&show_icons=true&hide=stars,issues" alt="Kuldeep31" /></p>
 
