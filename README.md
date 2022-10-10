@@ -2,24 +2,24 @@
 <h3 align="center">Devops Enginner at Torry Harris Integration Solutions</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/" target="blank">
+<a href="https://linkedin.com/in/kamlesh-nikumbh-8392217a/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="Kuldeep31" width="22px" />
 </a>
   &nbsp;&nbsp;
-<a href="https://twitter.com" target="blank">
+<a href="https://twitter.com/whythouser" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" alt="Kuldeep31" width="22px" />
 </a>
   &nbsp;&nbsp;
-<a href="https://fb.com" target="blank">
+<a href="https://fb.com/kamlesh.nikumbh" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" alt="Kuldeep31" width="22px" />
 </a>
   &nbsp;&nbsp;
-<a href="https://instagram.com" target="blank">
+<a href="https://instagram.com/kuldeep.nikumbh" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="Kuldeep31" width="22px" />
 </a>
   &nbsp;&nbsp;
-<a href="https://yatharthsharma.home.blog/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/wordpress.svg" alt="Kuldeep_blogs" width="22px" />
+<a href="https://https://dev.to/kuldeep31/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" alt="Kuldeep_blogs" width="22px" />
 </a></p>
 
 
