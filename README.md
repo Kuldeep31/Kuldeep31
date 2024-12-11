@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kamlesh</h1>
-<h3 align="center">Devops Enginner at Torry Harris Integration Solutions</h3>
+<h3 align="center">Devops Enginner at LTIMindtree</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/kamlesh-nikumbh-8392217a/" target="blank">
